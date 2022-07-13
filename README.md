@@ -1,2 +1,2 @@
-# sauerpaul.github.io
-Udacity Blog Project
+Udacity-Blog-Project
+Blog Project using HTML and CSS
