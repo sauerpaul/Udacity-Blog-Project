@@ -1,2 +1,1 @@
-Udacity-Blog-Project
-Blog Project using HTML and CSS
+Udacity-Blog-Project using HTML and CSS
